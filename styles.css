@@ -877,7 +877,7 @@ img {
 }
 
 @media (max-width: 600px) {
-  .feature-section {
+  #balance, #status {
     padding: 24px 24px;
   }
 
