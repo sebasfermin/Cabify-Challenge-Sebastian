@@ -877,6 +877,9 @@ img {
 }
 
 @media (max-width: 600px) {
+  .feature-section {
+    padding: 24px 24px;
+  }
 
   h1 {
     font-size: 32px;
