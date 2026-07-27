@@ -510,6 +510,7 @@ img {
   will-change: transform;
 }
 
+
 .ui-overlay {
   position: absolute;
   z-index: 2;
@@ -532,7 +533,7 @@ img {
 }
 
 .incidents-overlay-large {
-  left: 286px;
+  left: 240px;
   top: 71px;
   width: 322px;
 }
