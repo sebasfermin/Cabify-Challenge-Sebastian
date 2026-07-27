@@ -877,6 +877,15 @@ img {
 }
 
 @media (max-width: 600px) {
+
+  .store-row {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  align-items: center;
+  gap: 16px;
+}
+
   #balance, #status {
     padding: 24px 24px;
   }
@@ -923,7 +932,7 @@ img {
   }
 
   .store-button {
-    width: min(183px, calc((100vw - 160px) / 2));
+    width: min(250px, calc((100vw - 160px) / 2));
     height: auto;
   }
 
