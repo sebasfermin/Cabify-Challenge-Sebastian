@@ -547,7 +547,7 @@ img {
 .train-overlay {
   left: -99px;
   top: 94px;
-  width: 384px;
+  width: auto;
 }
 
 .green-feature {
@@ -932,7 +932,7 @@ img {
   }
 
   .store-button {
-    width: min(250px, calc((100vw - 160px) / 2));
+    width: 100%;
     height: auto;
   }
 
